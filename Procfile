@@ -1,1 +1,1 @@
-web: gunicorn hello-world-django-walkthrough.wsgi
+web: gunicorn my_project.wsgi
